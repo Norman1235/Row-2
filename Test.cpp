@@ -1,6 +1,10 @@
 #include <iostream>
 
-int main() {
-std::string hello = "Hello World!";
-std::cout << hello << std::endl;
+
+int main()
+{
+
+std::cout<< "\n" <<"Hello World" << "\n";
+return 0;
+
 }
