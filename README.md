@@ -3,3 +3,5 @@
 
 Team Member list:
 Norman Price
+Nathan McCommon
+Noah Hardy
