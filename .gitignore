@@ -1,0 +1,30 @@
+# Compiled executables
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+
+# Debug files
+*.pdb
+*.ilk
+
+# Build folders
+build/
+Debug/
+Release/
+x64/
+x86/
+
+# VS Code
+.vscode/
+
+# Visual Studio
+.vs/
+
+# Linux compiled binaries for this project
+Test
+NoahTest
+boss
